@@ -20,7 +20,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'bakelewNZ'
 github_username: 'bakelew'
-#medium_username: 'blog.jamigibbs.com'
 
 # Build settings
 markdown: kramdown
@@ -89,9 +88,9 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "G-PGKVW5TEFH" # Update with your own tracking ID
+footer_text: '© 2020 Lewis Baker'
+admin_name: 'Lewis Baker'
+google_analytics: "UA-182370058-1" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
