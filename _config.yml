@@ -21,6 +21,7 @@ url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for yo
 linkedin_username: 'bakelewNZ'
 twitter_username: 'bakelewNZ'
 github_username: 'bakelew'
+scholar_url: 'https://scholar.google.com/citations?user=UOssgU0AAAAJ&hl=en'
 
 # Build settings
 markdown: kramdown
