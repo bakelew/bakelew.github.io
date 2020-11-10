@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: "Lewis Baker"
 email: 'bakelew@gmail.com'
-description: "I'm a near-complete PhD student at University of Otago. My research interests include augmented and virtual reality, computer vision, and 3-D reconstruction."
+description: "PhD student at University of Otago."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://lcb.nz" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'bakelewNZ'
 twitter_username: 'bakelewNZ'
 github_username: 'bakelew'
