@@ -36,8 +36,11 @@
             {% if site.twitter_username != '' %}
               <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
             {% endif %}
-            {% if site.scholar_url != '' %}
-              <a href="{{ site.scholar_url }}"><button class="btn btn-default btn-lg"><i class="fa fa-google fa-lg"></i>Scholar</button></a>
+            {% if site.scholar_uri != '' %}
+              <a href="{{ site.scholar_uri }}"><button class="btn btn-default btn-lg"><i class="fa fa-graduation-cap fa-lg"></i>Scholar</button></a>
+            {% endif %}
+            {% if site.cv_uri != '' %}
+              <a href="{{ site.cv_uri }}"><button class="btn btn-default btn-lg"><i class="fa fa-user fa-lg"></i>CV</button></a>
             {% endif %}
 
           </div>
