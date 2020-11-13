@@ -9,7 +9,7 @@ permalink: /about/
 
 
 ## Contact
-Feel free to use the [links on my homepage](/index.html) for more information about me. For my contact information, please see [my CV](/{{ site.cv_uri }}).
+Feel free to use the links on [my homepage](/index.html) for more information about me. For my contact information, please see [my CV](/{{ site.cv_uri }}).
 
 
 ## Publications
