@@ -23,10 +23,12 @@ twitter_username: 'bakelewNZ'
 github_username: 'bakelew'
 scholar_uri: 'https://scholar.google.com/citations?user=UOssgU0AAAAJ&hl=en'
 cv_uri: 'img/CV-2020-v3.pdf'
+section_title: 'Latest Work'
+section_subtitle: 'See the figures and links below for a visual guide of some of my recent work.'
 
 # Build settings
 markdown: kramdown
-# theme: phantom # Uncomment once published to RubyGems
+theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate-v2
 
@@ -45,7 +47,7 @@ pagination:
   collection: 'posts'
 
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
-  per_page: 10
+  per_page: 100
 
   # The permalink structure for the paginated pages (this can be any level deep)
   permalink: '/page/:num/' # Pages are index.html inside this folder (default)
@@ -91,7 +93,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
+footer_text: '© 2020 Lewis Baker'
 admin_name: 'Lewis Baker'
 google_analytics: "UA-182370058-1" # Update with your own tracking ID
 enable_contact: false
@@ -101,3 +103,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
+#  - { url: '/projects', text: 'Projects' }
