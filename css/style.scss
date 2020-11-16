@@ -119,10 +119,11 @@ button.btn, input.btn {
   margin: 10em 0 9em 0;
   @include bp-xsmall {
     margin: 5em 0 5em 0;
-    width:100%;
+    width: 100%;
   }
   @include bp-small {
     margin: 5em 0 5em 0;
+    width: 100%;
   }
 }
 
