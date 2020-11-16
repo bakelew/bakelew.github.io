@@ -82,8 +82,12 @@ button.btn, input.btn {
     padding-right: 0.5em;
   }
   @include bp-xsmall {
-    @include horizontal-align;
     margin-bottom: 0.5em;
+    width: 30%;
+  }
+  @include bp-small {
+    margin-bottom: 0.5em;
+    width: 30%;
   }
 }
 
@@ -115,6 +119,7 @@ button.btn, input.btn {
   margin: 10em 0 9em 0;
   @include bp-xsmall {
     margin: 5em 0 5em 0;
+    width:100%;
   }
   @include bp-small {
     margin: 5em 0 5em 0;
@@ -248,19 +253,24 @@ button.btn, input.btn {
 }
 
 .content-wrap {
-  margin-bottom: 8em;
-  @include bp-xsmall {
-    margin-bottom: 2em;
-  }
-  @include bp-small {
-    margin-bottom: 2em;
-  }
+  margin-bottom: 5em;
+
   img.img-responsive {
     @include bp-xsmall {
-      display: none;
+      margin-top: 1em;
+      margin-left: 5em;
+      width: 80%;
     }
     @include bp-small {
-      display: none;
+      margin-top: 1em;
+      margin-left: 5em;
+      width: 80%;
+    }
+    @include bp-medium {
+      margin-top: 10em;
+    }
+    @include bp-large {
+      margin-top: 10em;
     }
   }
   .content {
@@ -272,15 +282,6 @@ button.btn, input.btn {
     h3.title {
       position: relative;
       margin-bottom: 1.5em;
-      &:after {
-        content: '';
-        position: absolute;
-        top: 1.5em;
-        left: 0;
-        width: 3em;
-        height: 3px;
-        background-color: #ECEFF1;
-      }
     }
     .excerpt {
       width: 80%;
