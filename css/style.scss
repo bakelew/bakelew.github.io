@@ -41,6 +41,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
   @extend %merriweather;
   font-weight: 700;
+  color: #00508F;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin-top: 1.8em;
+}
+
+#hero {
+  background-color: #e5f9ff;
 }
 
 article {
@@ -49,7 +56,12 @@ article {
 
 p {
   line-height: 1.8;
-  font-size: 1.3em;
+  font-size: 1.2em;
+}
+
+ul {
+  line-height: 1.8;
+  font-size: 1.2em;
 }
 
 a {
@@ -257,6 +269,7 @@ button.btn, input.btn {
   margin-bottom: 5em;
 
   img.img-responsive {
+    border-radius: 10px;
     @include bp-xsmall {
       margin-top: 1em;
       margin-left: 0;
