@@ -10,9 +10,12 @@ permalink: /about/
 
 ![image](/img/lewis2.jpg){: style="float: right; width: 25%; margin: 0.5em 1em;"}
 
-I am from Dunedin, New Zealand and studied at the University of Otago between 2012 and 2020. I have a broad range of interests that ultimately led me to begin studying in the Department of Computer Science with a minor in Music Technology in 2012. I have always had a passion for science and using it to create tangible results, which drew me initially toward the graphics side of computer science with my first project being a real-time ray tracer written in OpenCL. From here, I explored concepts of Computer Vision with my Master's project in detecting overhead power lines from terrestrial photographs. 
+As a recent PhD graduate from the University of Otago, I am now looking for work in the VR, AR, and game development industries, or academia to apply what I have learned throughout my time at Otago, and come up with new ideas to put out into the world. I have a broad range of interests that ultimately led me to begin studying in the Department of Computer Science with a minor in Music Technology in 2012.
 
-With experience in the fundamentals of computer graphics and vision, I began my PhD in Augmented and Virtual Reality with the hope to make a contribution in such a fast-growing research field. Under the supervision of Stefanie Zollmann, Steven Mills, Tobias Langlotz, and Jonathan Ventura, I investigated the topics of Tracking and Localization in depth within the context of Extended Reality applications. Since completing my PhD at the end of 2020, I am now looking for work in the industry or academia to apply what I have learned throughout my time at Otago, and come up with new ideas to put out into the world.
+I have always had a passion for science and problem solving, with a creative side driven by my hobby as an average-to-poor guitar player. This drew me initially toward the graphics side of computer science, with my first project being a real-time ray tracer written in OpenCL. From here, I explored concepts of Computer Vision with my Master’s project in detecting overhead power lines from terrestrial photographs.
+
+With experience in the fundamentals of computer graphics and vision, I began my PhD in Augmented and Virtual Reality with the hope to make a contribution in such a fast-growing research field. Under the supervision of Stefanie Zollmann, Steven Mills, Tobias Langlotz, and Jonathan Ventura, I investigated the topics of Tracking and Localization in depth within the context of Extended Reality applications. 
+
 
 
 ### Research interests
