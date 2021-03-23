@@ -10,7 +10,7 @@ permalink: /about/
 
 ![image](/img/lewis2.jpg){: style="float: right; width: 25%; margin: 0.5em 1em;"}
 
-As a recent PhD graduate from the University of Otago, I am now looking for work in the VR, AR, and game development industries, or academia to apply what I have learned throughout my time at Otago, and come up with new ideas to put out into the world. I have a broad range of interests that ultimately led me to begin studying in the Department of Computer Science with a minor in Music Technology in 2012.
+As a recent PhD graduate from the University of Otago, I am currently working as a software engineer at [Moxion](https://moxion.io). I am interested in the VR, AR, film, and game development industries to apply what I have learned throughout my time at Otago, and come up with new ideas to put out into the world. I have a broad range of interests that ultimately led me to begin studying in the Department of Computer Science with a minor in Music Technology in 2012.
 
 I have always had a passion for science and problem solving, with a creative side driven by my hobby as an average-to-poor guitar player. This drew me initially toward the graphics side of computer science, with my first project being a real-time ray tracer written in OpenCL. From here, I explored concepts of Computer Vision with my Master’s project in detecting overhead power lines from terrestrial photographs.
 
